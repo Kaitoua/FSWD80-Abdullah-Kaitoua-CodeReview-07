@@ -1,0 +1,24 @@
+
+.jumbotron{
+
+	background: url('assets/hero.png') no-repeat center center;
+	color: white;
+	background-size: cover;
+	height: 500px;
+
+}
+
+
+.mycon{
+
+	margin-left: 100px !important;
+	margin-top: 100px !important;
+
+}
+
+
+.myform {
+
+margin-bottom: 10px;
+text-align: right !important;
+}
